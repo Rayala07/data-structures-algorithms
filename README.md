@@ -13,9 +13,11 @@ Each folder contains multiple problems with clean, well-documented solutions.
 ## Topics Covered
 
 -  Collection Frameworks
--  Arrays
+-  Arrays (1D and 2D Arrays)
+-  Hashing Concept
 -  Strings
 -  Basics of Recursion
+-  Sorting
 
 Updating as I progress 🚀..
 
